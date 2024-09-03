@@ -1,0 +1,85 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 30,
+      "place": "New York",
+      "email": "john.doe@example.com",
+      "phone": "1234567764",
+      "dept": "IT"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 28,
+      "place": "Los Angeles",
+      "email": "jane.smith@example.com",
+      "phone": "0987654321",
+      "dept": "HR"
+    },
+    {
+      "id": "3",
+      "name": "Amit Sharma",
+      "age": 35,
+      "place": "Delhi",
+      "email": "amit.sharma@example.com",
+      "phone": "9123456789",
+      "dept": "Finance"
+    },
+    {
+      "id": "4",
+      "name": "Priya Menon",
+      "age": 26,
+      "place": "Mumbai",
+      "email": "priya.menon@example.com",
+      "phone": "9876543210",
+      "dept": "Marketing"
+    },
+    {
+      "id": "5",
+      "name": "Rajesh Kumar",
+      "age": 40,
+      "place": "Chennai",
+      "email": "rajesh.kumar@example.com",
+      "phone": "9012345678",
+      "dept": "Operations"
+    },
+    {
+      "id": "6",
+      "name": "Deepika Rao",
+      "age": 32,
+      "place": "Bangalore",
+      "email": "deepika.rao@example.com",
+      "phone": "9112233445",
+      "dept": "IT"
+    },
+    {
+      "id": "7",
+      "name": "Anjali Patel",
+      "age": 29,
+      "place": "Ahmedabad",
+      "email": "anjali.patel@example.com",
+      "phone": "9822334455",
+      "dept": "Sales"
+    },
+    {
+      "id": "8",
+      "name": "Vikram Singh",
+      "age": 38,
+      "place": "Jaipur",
+      "email": "vikram.singh@example.com",
+      "phone": "9876678901",
+      "dept": "HR"
+    },
+    {
+      "id": "9",
+      "name": "Sneha Roy",
+      "age": 27,
+      "place": "Kolkata",
+      "email": "sneha.roy@example.com",
+      "phone": "9332244556",
+      "dept": "Customer Service"
+    }
+  ]
+}
